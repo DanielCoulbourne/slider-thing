@@ -1,4 +1,10 @@
 /* sample component */
-.sample-component {
-  @apply .p-1;
+/* .slider-img {
+    @apply absolute w-full h-full object-contain transition-opacity opacity-0
 }
+
+.slider-img--visible {
+    @apply opacity-100
+}
+
+*/
